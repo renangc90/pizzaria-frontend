@@ -26,4 +26,5 @@ yarn add axios nookies jwt-decode
 
 
 personalizar alertas
+https://fkhadra.github.io/react-toastify/installation
 yarn add react-toastify
