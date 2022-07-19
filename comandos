@@ -1,0 +1,29 @@
+pra criar
+npx create-next-app nome
+
+pra rodar
+yarn dev
+
+instalar typescript
+yarn add typescript @types/react @types/node -D
+
+
+add sass
+yarn add sass
+
+
+add extensao cssmodules e sass
+yarn add sass
+
+
+icones
+yarn add react-icons
+
+
+
+axios pra usar json externo, nookies pra configurar cookies e jwt-decode pra decodificar o jwt
+yarn add axios nookies jwt-decode
+
+
+personalizar alertas
+yarn add react-toastify
